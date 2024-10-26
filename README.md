@@ -24,7 +24,7 @@ This project is a simulation of a small university network using Cisco Packet Tr
 3. Experiment with RIP, static routing, ACL, and NAT configurations.
 
 ### Project Report:
-A detailed report on the network design, configuration, and protocols implemented can be found in the [Project Report](./Report - Small Network of a University.pdf).
+The project report provides a detailed report on the network design, configuration, and protocols implemented.
 
 ### Contact:
 For any questions or inquiries, feel free to contact me at:
