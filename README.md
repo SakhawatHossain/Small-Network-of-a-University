@@ -1,4 +1,4 @@
-# University Small Network Project
+# Small Network of a University 
 
 This project is a simulation of a small university network using Cisco Packet Tracer. The network consists of three departments: CSE, BBA, and EEE, each with their own router(network). Additionally, there is an seperate admin and a server site. All department routers and admin router connect to the university's main router, which is linked to an ISP router. The ISP router connects to a simulated "Google" switch, providing external access.
 
@@ -24,7 +24,7 @@ This project is a simulation of a small university network using Cisco Packet Tr
 3. Experiment with RIP, static routing, ACL, and NAT configurations.
 
 ### Project Report:
-A detailed report on the network design, configuration, and protocols implemented can be found in the [Project Report](./Project_Report.pdf).
+A detailed report on the network design, configuration, and protocols implemented can be found in the [Project Report](./Report - Small Network of a University.pdf).
 
 ### Contact:
 For any questions or inquiries, feel free to contact me at:
